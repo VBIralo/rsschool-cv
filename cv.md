@@ -23,18 +23,22 @@ JavaScript, Node.js, HTML, CSS, GIT, Photoshop, React, MongoDB, Webpack, npm, Ka
 ## Experience
 
 #### Voenmeh GO
+
 **Founder & Lead front-end**
 
 Worked on developing a web service for the University.
+
 Stack: React, JS, Node.js, Git, Webpack, Babel
 
 [VK App](https://vk.com/app6969696)
+
 [Github](https://github.com/botxme/voenmeh)
 
 #### Freelance
 
 I'm founded a small company that develops chatbots for various businesses.
 I developed many different bots and web services, some of which are under NDA.
+
 Stack: JS, Node.js, Git, RestAPI, npm, Chai
 
 #### Hackathon

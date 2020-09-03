@@ -1,1 +1,1 @@
-rsschool-cv
+https://vbiralo.github.io/rsschool-cv/cv
